@@ -6,7 +6,7 @@ Below you will find some information on relevant libraries used<br>
 ## Table of Contents
 
 - [React Bootstrap](https://github.com/shadowae/movie-site/blob/master/README.md#react-bootstrap)
-- [React-Router-Dom]
+- [React-Router-Dom](## React-Router-Dom)
 - [Running the Project]
 
 ## React-Bootstrap
