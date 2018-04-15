@@ -1,0 +1,41 @@
+.header-container {
+    background: rgb(41, 107, 206);
+    color: azure;
+    /*font-size: 40px;*/
+    border:2px solid green;
+    padding: 2px;
+}
+
+.sub-header-container {
+    background: rgb(65, 65, 65);
+    /*font-size: 30px;*/
+    color: white;
+    border:2px solid red;
+    padding: 2px;
+}
+
+a:-webkit-any-link {
+    color: aliceblue;
+}
+
+span.block {
+    display:block;
+}
+
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+    border:2px solid deeppink;
+}
+.mainrow {
+    /*border:2px solid blue;*/
+}
+.mainrow2 {
+    /*border:2px solid green;*/
+}
+
+.row-no-border {
+    /*border:2px solid orange;*/
+    padding-right:0;
+    padding-left:0;
+}
